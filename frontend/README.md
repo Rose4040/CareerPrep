@@ -7,6 +7,7 @@ Aptitude preparation app focused to help students for their placements.
 **Frontend:**
 
 React
+
 **Backend:**
 
 DjangoRestFramework
